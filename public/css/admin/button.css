@@ -1,0 +1,36 @@
+.btn{
+    padding: .4em .8em;
+    background-color: #434343;
+    color: #fff;
+
+    display: inline-flex;
+    align-items: center;
+    
+    transition: background-color .5s;
+}
+
+.btn:hover{
+    background-color: #7e6c6c;
+    
+}
+
+.btn-ok{
+
+}
+
+.btn-cancel{
+
+}
+
+.btn-strong{
+
+}
+
+.btn-toggle{
+
+}
+
+.btn-alarm{
+
+}
+
